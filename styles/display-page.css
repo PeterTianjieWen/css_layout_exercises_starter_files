@@ -1,0 +1,39 @@
+body {
+	width: 800px;
+	height: 500px;
+	font-size: 0;
+	border: 1px solid black;
+	margin: auto;
+}
+
+.inner {
+	height: 40%;
+	width: 50%;
+	display: inline-block;
+}
+
+.inner-1 {
+	background-color: green;
+}
+
+.inner-2 {
+	background-color: blue;
+}
+
+.inner2 {
+	height: 60%;
+	width: 33.33%;
+	display: inline-block;
+}
+
+.innner-1 {
+	background-color: grey;
+}
+
+.innner-2 {
+	background-color: black;
+}
+
+.innner-3 {
+	background-color: yellow;
+}
